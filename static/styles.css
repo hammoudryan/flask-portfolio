@@ -1,0 +1,48 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  div {
+    background-color:gold;
+    height: 150px ;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  
+
+  .first {
+    background-color: bisque;
+    padding-right: 10%;
+    padding-top: 2%;
+  }
+
+  .second {
+    background-color: aquamarine;
+    padding-right: 10%;
+    padding-top: 2%;
+  }
+
+  .third {
+    background-color: greenyellow;
+    padding-right: 10%;
+    padding-top: 2%;
+  }
+
+  .img1 {
+    height: 50px;
+    padding-left: 10px;
+    padding-right:10px;
+  }
+
+  .img3 {
+    height: 10px;
+  }
